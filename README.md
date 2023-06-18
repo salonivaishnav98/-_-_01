@@ -2,7 +2,7 @@
 #I develop this project using java only, I mostly use loops in this project. To access use 1234 as ID and password.
 
 import java.util.Scanner;
-public class Main {
+public class Railwayreservation {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int ch;
