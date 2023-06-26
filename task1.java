@@ -62,11 +62,11 @@ class login{
         l2.setBounds(80, 160, 200, 30);
         l2.setFont(new Font("SERIF", Font.PLAIN, 20));
 
-        tf1 = new JTextField("12345");
+        tf1 = new JTextField("00000");
         tf1.setBounds(220, 120, 150, 25);
         tf1.setFont(new Font("SERIF", Font.PLAIN, 20));
     
-        tf2 = new JTextField("67890");
+        tf2 = new JTextField("00000");
         tf2.setBounds(220, 160, 150, 25);
         tf2.setFont(new Font("SERIF", Font.PLAIN, 20));
         
