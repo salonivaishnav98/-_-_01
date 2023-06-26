@@ -2,13 +2,16 @@
 
 Project Name
 
-#Railway Reservation System
+# Railway_Reservation_System
 
-#Language used- 
+# Language_used- 
 Java
 
-first file developed using simple # core java 
-and second file developed using # java swing
+# core_java 
+first file (Railwayreservation.java) developed using simple 
+
+# java_swing
+and second file (task1.java) developed using 
 
 
 
