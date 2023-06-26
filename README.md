@@ -7,7 +7,8 @@ Project Name
 #Language used- 
 Java
 
-Open the project file in your code editor and run
+first file developed using simple # core java 
+and second file developed using # java swing
 
 
 
